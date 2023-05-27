@@ -1,0 +1,64 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav1_1
+{
+    width:100%;
+    background-color: #000322;
+    padding: 6px 0;
+}
+
+#title
+{
+    padding-right:836px;
+    padding-left: 105px;
+}
+#contact
+{
+    padding-right: 42px;
+}
+
+.nav1_1 ul 
+{
+    color:white;
+    display: flex;
+    list-style-type:none;
+
+}
+
+#logo
+{
+    width: 100px;
+    margin-top: -13px;
+}
+
+.nav2 ul {
+    list-style-type: none;
+    display:flex;
+    margin-top:2px;
+    justify-content: space-around;
+}
+.nav2 ul li{
+    padding-top: 16px;
+
+}
+
+#free
+{
+    height:36px;
+    margin-top: 3px;
+    padding-top: 11px;
+    padding-left: 20px;
+    width: 185px;
+    color: azure;
+    font-size: 14px;
+    background-color: #003d13;
+}
+#free:hover{
+    width: 187px;
+    height:39px;
+}
